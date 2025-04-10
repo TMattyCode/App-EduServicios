@@ -1,4 +1,5 @@
 # App EduServicios
+Tarea 1 Computación Distribuida
 
 ## Integrantes
 * Matías Toledo
@@ -15,5 +16,3 @@
 * Paso 1: Descargar archivo `.zip` y descomprimir.
 * Paso 2: Abrir terminal en la carpeta
 * Paso 3: Ejecutar `python iniciador.py`
-
-Se adjunta video de prueba funcional
