@@ -1,5 +1,5 @@
 # App EduServicios
-Tarea 1 Computación Distribuida
+**Tarea 1 Computación Distribuida**
 
 ## Integrantes
 * Matías Toledo
